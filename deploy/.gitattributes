@@ -1,2 +1,0 @@
-statcan_cubesEN_with_embeddings.rds filter=lfs diff=lfs merge=lfs -text
-statcan_cubesFR_with_embeddings.rds filter=lfs diff=lfs merge=lfs -text
