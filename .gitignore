@@ -1,0 +1,12 @@
+# Ignore everything
+*
+.*
+
+# Don't ignore deploy directory and its contents
+!deploy/
+!deploy/**
+!.gitignore
+
+# Explicitly ignore large files everywhere including in subdirectories
+**/statcan_cubes_with_embeddings.json
+**/statcan_cubes_with_embeddings.rds
