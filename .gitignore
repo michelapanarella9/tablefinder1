@@ -1,1 +1,14 @@
-
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Renvironmy_python_env/
+.gitignore
+my_python_env/
+*.rds
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+.DS_Store
